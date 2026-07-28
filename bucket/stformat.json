@@ -1,17 +1,17 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "description": "Formatter for Structured Text (IEC 61131-3) — TwinCAT & CoDeSys. CLI + GUI, column alignment.",
     "homepage": "https://github.com/elconfa/STFormat",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/elconfa/STFormat/releases/download/v0.4.1/stformat.exe",
-                "https://github.com/elconfa/STFormat/releases/download/v0.4.1/STFormat-GUI.exe"
+                "https://github.com/elconfa/STFormat/releases/download/v0.4.2/stformat.exe",
+                "https://github.com/elconfa/STFormat/releases/download/v0.4.2/STFormat-GUI.exe"
             ],
             "hash": [
-                "2ff56bdd2bd2864d445589885b2e543991529c26469b369e1c81ded6969ca0ef",
-                "2189f78437eac1b9300b3e956145585fe08c0187e933b7136522ade6b4765b6c"
+                "358b2d2f097d9c4b906bcc74180256f5a6656c8edfe7fd336e7392b8c6892936",
+                "aebb8e55396670384da22ee8eb78ee17c4107a2027935fa776902b1877dd8bcb"
             ]
         }
     },
